@@ -11,6 +11,8 @@
 @interface ViewController () {
     UIButton *_button;
     CALayer  *_layer;
+    
+    int a;
 }
 
 @end
